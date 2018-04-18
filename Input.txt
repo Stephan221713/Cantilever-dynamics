@@ -1,0 +1,48 @@
+Parameter	Value in SI units
+L		0.000200
+H		0.000010
+w		0.000050
+zeta		0.2
+psi		0
+k		2.5
+mT		5.0e-12
+mL		5.0e-11
+eta		10000
+k1		100
+k2		85
+g1		0
+g2		0
+d1		1.0e-12
+d2		0
+f0		0
+VACxDV		0
+u0		0
+epsilon_r		1
+LaserPosition	1
+Df		10000
+TE		0
+
+fStart		250000
+fStop		300000
+fStep		1000
+AdjustDf	0
+AdjustQAir	0
+AdjustQContact	0
+Precision	1.0e-7
+IntegrationSteps	10000
+
+AdjustParametersFromExperiment	1
+ResonanceCurve	1
+ContactStiffnessVariation	5
+LeverShape	1
+
+Experimental parameter	Value in SI units
+ffree1		50000
+Qfree1		100
+ffree2		335000
+Qfree2		350
+fcr		270000
+Qcr		50
+csr		0.85
+Min_k1	1
+Max_k1	10000
